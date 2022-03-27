@@ -1,0 +1,33 @@
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\bin\Debug\DAL_VPT.exe.config
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\bin\Debug\DAL_VPT.exe
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\bin\Debug\DAL_VPT.pdb
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.csproj.AssemblyReference.cache
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\obj\Debug\MainWindow.g.cs
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\obj\Debug\App.g.cs
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT_MarkupCompile.cache
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT_MarkupCompile.lref
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\obj\Debug\MainWindow.baml
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.g.resources
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.Properties.Resources.resources
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.csproj.GenerateResource.cache
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.csproj.CoreCompileInputs.cache
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.exe
+A:\HieuHC\tool_hieuhc\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.pdb
+D:\Tool game VPT\DAL_VPT\DAL_VPT\bin\Debug\DAL_VPT.exe.config
+D:\Tool game VPT\DAL_VPT\DAL_VPT\bin\Debug\DAL_VPT.exe
+D:\Tool game VPT\DAL_VPT\DAL_VPT\bin\Debug\DAL_VPT.pdb
+D:\Tool game VPT\DAL_VPT\DAL_VPT\bin\Debug\Emgu.CV.World.dll
+D:\Tool game VPT\DAL_VPT\DAL_VPT\bin\Debug\KAutoHelper.dll
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.csprojAssemblyReference.cache
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\MainWindow.g.cs
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\App.g.cs
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT_MarkupCompile.cache
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT_MarkupCompile.lref
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\MainWindow.baml
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.g.resources
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.Properties.Resources.resources
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.csproj.GenerateResource.cache
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.csproj.CoreCompileInputs.cache
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.csproj.CopyComplete
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.exe
+D:\Tool game VPT\DAL_VPT\DAL_VPT\obj\Debug\DAL_VPT.pdb
